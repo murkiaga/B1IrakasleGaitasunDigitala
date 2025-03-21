@@ -20,4 +20,4 @@
 
  - **Denboraren errespetua**
 
-    -Besteen denbora errespetatu: Online bilera edo elkarrizketetan, beste pertsonen denbora errespetatu behar da. Ez da onargarria denbora asko hartzea edo gaia aldatzea. Horretarako, bilera aurretik argi zehaztu zein diren bileraren helburuak, bilerak beharrezkoak direnean soilik egitea eta une egokian.
+    - Besteen denbora errespetatu: Online bilera edo elkarrizketetan, beste pertsonen denbora errespetatu behar da. Ez da onargarria denbora asko hartzea edo gaia aldatzea. Horretarako, bilera aurretik argi zehaztu zein diren bileraren helburuak, bilerak beharrezkoak direnean soilik egitea eta une egokian.
